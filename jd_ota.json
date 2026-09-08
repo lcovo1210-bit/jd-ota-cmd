@@ -1,0 +1,7 @@
+{
+  "cmd": "idle",
+  "note": "OTA 指令文件。cmd=update 时由人工更新，脚本侧每 10 分钟轮询",
+  "version": "v7.6",
+  "url": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-priv/main/product_monitor_v7.js",
+  "md5": "a2fb3c91ee8a67181df69170c863356d"
+}
