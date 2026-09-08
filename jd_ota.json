@@ -1,9 +1,9 @@
 {
   "cmd": "idle",
-  "version": "v7.6",
+  "version": "v2026.09.08-2204",
   "enc": true,
   "url": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
   "url2": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-cmd/main/product_monitor_v7.js.enc",
-  "md5": "943829718e30725583411ced431fd9b7",
-  "note": "OTA 指令文件：脚本每10分钟轮询；cmd=update 时脚本自动下载解密校验并重启"
+  "md5": "7c76c06475e6d64f6c81c346dea024df",
+  "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启"
 }
