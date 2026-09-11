@@ -1,10 +1,10 @@
 {
   "cmd": "idle",
-  "version": "v2026.09.11-1454",
+  "version": "v2026.09.11-1500",
   "enc": true,
-  "seq": 1789109679901,
+  "seq": 1789110058836,
   "url": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-cmd/main/product_monitor_v7.js.enc",
   "url2": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
-  "md5": "6104ab3e74fa1bb6377c08620da8339a",
+  "md5": "3c288e4b7d03429074db0be240c9aa28",
   "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启。url=raw 优先（GitHub 直出无缓存，内容永远新鲜），jsDelivr 做备用（防 raw 间歇阻断）。seq=单调递增序号，手机端据此识破 CDN 缓存吐出的旧指令"
 }
