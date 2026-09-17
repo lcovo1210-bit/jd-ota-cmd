@@ -1,12 +1,13 @@
 {
   "cmd": "update",
-  "version": "v2026.09.18-0044",
+  "version": "v2026.09.18-0100",
   "enc": true,
-  "seq": 1789663453833,
+  "seq": 1789664421608,
   "build": 202609180220,
   "url": "http://117.72.157.23:8787/ota/product_monitor_v7.js.enc",
-  "url2": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-cmd/main/product_monitor_v7.js.enc",
-  "md5": "b1b5b72cccff32c38422a180263a4b2a",
-  "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启。url=raw 优先（GitHub 直出无缓存，内容永远新鲜），jsDelivr 做备用（防 raw 间歇阻断）。seq=单调递增序号，手机端据此识破 CDN 缓存吐出的旧指令。build=脚本内容构建序号（v8.9.49 起），手机端据此拒绝老版本回退（连人工检查更新也拒）",
+  "url2": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
+  "url3": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-cmd/main/product_monitor_v7.js.enc",
+  "md5": "7a3f5477c725b5abb127ad11dd591103",
+  "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启。下载源逐个降级：url=自建主源（最快最稳）→ url2=jsDelivr → url3=GitHub raw。seq=单调递增序号，手机端据此识破 CDN 缓存吐出的旧指令。build=脚本内容构建序号（v8.9.49 起），手机端据此拒绝老版本回退（连人工检查更新也拒）",
   "token": "jd-ota-2026"
 }
