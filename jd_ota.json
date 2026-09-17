@@ -1,12 +1,12 @@
 {
   "cmd": "update",
-  "version": "v2026.09.17-2205",
+  "version": "v2026.09.17-2255",
   "enc": true,
-  "seq": 1789653935486,
-  "build": 202609180215,
+  "seq": 1789656955510,
+  "build": 202609180216,
   "url": "https://raw.githubusercontent.com/lcovo1210-bit/jd-ota-cmd/main/product_monitor_v7.js.enc",
   "url2": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
-  "md5": "aae93810504b81c1616116ffff9b1898",
+  "md5": "8741f0a81818e8167c47f848805afe06",
   "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启。url=raw 优先（GitHub 直出无缓存，内容永远新鲜），jsDelivr 做备用（防 raw 间歇阻断）。seq=单调递增序号，手机端据此识破 CDN 缓存吐出的旧指令。build=脚本内容构建序号（v8.9.49 起），手机端据此拒绝老版本回退（连人工检查更新也拒）",
   "token": "jd-ota-2026"
 }
