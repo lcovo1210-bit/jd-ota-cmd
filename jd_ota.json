@@ -2,7 +2,7 @@
   "cmd": "update",
   "version": "v8.9.115",
   "enc": true,
-  "seq": 1794839636151,
+  "seq": 1794839720338,
   "build": 202611162230,
   "url": "http://111.92.241.88:8787/ota/product_monitor_v7.js.enc",
   "url2": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
