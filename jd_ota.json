@@ -1,12 +1,12 @@
 {
   "cmd": "update",
-  "version": "v8.9.113",
+  "version": "v8.9.114",
   "enc": true,
-  "seq": 1794838469440,
-  "build": 202611162213,
+  "seq": 1794839054868,
+  "build": 202611162223,
   "url": "http://111.92.241.88:8787/ota/product_monitor_v7.js.enc",
   "url2": "https://cdn.jsdelivr.net/gh/lcovo1210-bit/jd-ota-cmd@main/product_monitor_v7.js.enc",
-  "md5": "6e589cbc3811db003c9e0a7ef96176fa",
+  "md5": "5e8723513bf408aae5ffaff1f5a18172",
   "note": "发布器自动生成；cmd=update 时手机自动下载解密校验并重启。下载源逐个降级：url=自建主源（香港 111.92.241.88，最快最稳）→ url2=jsDelivr。seq=单调递增序号，手机端据此识破 CDN 缓存吐出的旧指令。build=脚本内容构建序号（v8.9.49 起），手机端据此拒绝老版本回退（连人工检查更新也拒）",
   "token": "jd-ota-2026"
 }
